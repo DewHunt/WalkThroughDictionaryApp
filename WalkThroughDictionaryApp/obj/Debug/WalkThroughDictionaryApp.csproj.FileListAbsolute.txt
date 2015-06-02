@@ -1,0 +1,18 @@
+E:\SEIP-BITM\COAD\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\bin\Debug\WalkThroughDictionaryApp.exe.config
+E:\SEIP-BITM\COAD\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\bin\Debug\WalkThroughDictionaryApp.exe
+E:\SEIP-BITM\COAD\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\bin\Debug\WalkThroughDictionaryApp.pdb
+E:\SEIP-BITM\COAD\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.csprojResolveAssemblyReference.cache
+E:\SEIP-BITM\COAD\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.DictionaryUI.resources
+E:\SEIP-BITM\COAD\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.Properties.Resources.resources
+E:\SEIP-BITM\COAD\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.csproj.GenerateResource.Cache
+E:\SEIP-BITM\COAD\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.exe
+E:\SEIP-BITM\COAD\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.pdb
+G:\DOT NET\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\bin\Debug\WalkThroughDictionaryApp.exe.config
+G:\DOT NET\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.exe
+G:\DOT NET\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.pdb
+G:\DOT NET\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\bin\Debug\WalkThroughDictionaryApp.exe
+G:\DOT NET\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\bin\Debug\WalkThroughDictionaryApp.pdb
+G:\DOT NET\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.csprojResolveAssemblyReference.cache
+G:\DOT NET\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.DictionaryUI.resources
+G:\DOT NET\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.Properties.Resources.resources
+G:\DOT NET\Assignment\2015-4(April)-25\WalkThroughDictionaryApp\WalkThroughDictionaryApp\obj\Debug\WalkThroughDictionaryApp.csproj.GenerateResource.Cache
